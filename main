@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L’Avare de Molière</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin:0;
+            padding:0;
+            line-height:1.6;
+        }
+
+        header{
+            background-color:#7a1f1f;
+            color:white;
+            text-align:center;
+            padding:40px 20px;
+        }
+
+        nav{
+            background-color:#333;
+            padding:10px;
+            text-align:center;
+        }
+
+        nav a{
+            color:white;
+            text-decoration:none;
+            margin:0 15px;
+            font-weight:bold;
+        }
+
+        nav a:hover{
+            color:#f4c542;
+        }
+
+        .container{
+            width:80%;
+            margin:auto;
+            background:white;
+            padding:30px;
+            margin-top:20px;
+            margin-bottom:20px;
+            border-radius:10px;
+            box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+        }
+
+        h1{
+            margin:0;
+        }
+
+        h2{
+            color:#7a1f1f;
+        }
+
+        footer{
+            background:#333;
+            color:white;
+            text-align:center;
+            padding:15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mon Blogue de Français</h1>
+        <p>Analyse et réflexion sur L’Avare de Molière</p>
+    </header>
+
+    <nav>
+        <a href="#">Accueil</a>
+        <a href="#">Billets</a>
+        <a href="#">À propos</a>
+    </nav>
+
+    <div class="container">
+
+        <h2>Pourquoi L’Avare est encore une œuvre actuelle</h2>
+
+        <p>
+            Même si <strong>L’Avare</strong> de Molière a été écrit au XVIIe siècle, 
+            cette pièce de théâtre reste encore très intéressante aujourd’hui. 
+            Grâce à l’humour, aux personnages exagérés et aux thèmes universels, 
+            cette œuvre continue de faire réfléchir les lecteurs et les spectateurs.
+        </p>
+
+        <p>
+            L’histoire tourne autour d’Harpagon, un homme extrêmement avare qui aime 
+            l’argent plus que tout. Il pense constamment à protéger sa fortune et refuse 
+            de dépenser le moindre sou. Son obsession devient tellement forte qu’elle 
+            affecte sa famille et ses relations avec les autres.
+        </p>
+
+        <p>
+            Ce qui rend <em>L’Avare</em> encore actuel, c’est le thème de l’argent. 
+            Aujourd’hui encore, plusieurs personnes accordent une grande importance 
+            à l’argent et au succès matériel. Certaines deviennent tellement concentrées 
+            sur leurs biens qu’elles oublient les relations humaines.
+        </p>
+
+        <p>
+            J’ai aussi trouvé intéressant le conflit entre Harpagon et ses enfants. 
+            Élise et Cléante veulent choisir eux-mêmes les personnes qu’ils aiment, 
+            mais leur père essaie de décider à leur place pour des raisons financières. 
+            Ce thème est encore présent aujourd’hui.
+        </p>
+
+        <p>
+            L’humour occupe également une place importante dans l’œuvre. Molière utilise 
+            des scènes exagérées et des malentendus pour faire rire le public. 
+            Par exemple, lorsque Harpagon perd sa cassette remplie d’argent, 
+            il devient complètement paniqué et accuse tout le monde de vol.
+        </p>
+
+        <p>
+            Personnellement, j’ai apprécié cette œuvre parce qu’elle mélange humour 
+            et réflexion. Elle nous montre que l’argent est important, mais qu’il 
+            ne doit jamais devenir plus précieux que la famille, l’amour ou le bonheur.
+        </p>
+
+        <p>
+            En conclusion, <strong>L’Avare</strong> est une œuvre classique qui reste 
+            moderne grâce à ses thèmes universels et son humour. Molière réussit à 
+            divertir le public tout en critiquant certains comportements humains.
+        </p>
+
+    </div>
+
+    <footer>
+        <p>Blogue scolaire - Français | Créé par [Ton prénom]</p>
+    </footer>
+
+</body>
+</html>
